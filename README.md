@@ -1,3 +1,5 @@
+This repository is licensed under the MIT License. © 2026 Hrithik Ghosh.
+
 A simple chatbot made using LLM from open source Open AI and Google flan model will be deployed in steamlit dashboard soon
 
 Requirements -
